@@ -8,5 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid Background="#FF28B668">
         <TextBlock>это будет начальное состояние пробного проекта</TextBlock>
+        <Button Margin="300 200 0 100">qwert</Button>
+        <Button Margin="0 100 300 200">kskcskcck</Button>
     </Grid>
 </Window>
